@@ -10,8 +10,8 @@
   },
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
-  "name": "Survival Mod Pack",
-  "version": "0.0.1",
+  "name": "Servos Survival Mod Pack",
+  "version": "0.0.2",
   "author": "Servovicis",
   "files": [
     {
@@ -37,7 +37,7 @@
     {
       "projectID": 290209,
       "fileID": 2704404,
-      "required": true
+      "required": false
     },
     {
       "projectID": 261251,
@@ -75,6 +75,16 @@
       "required": true
     },
     {
+      "projectID": 252910,
+      "fileID": 2836225,
+      "required": true
+    },
+    {
+      "projectID": 237875,
+      "fileID": 2718588,
+      "required": true
+    },
+    {
       "projectID": 244559,
       "fileID": 2830252,
       "required": false
@@ -85,6 +95,11 @@
       "required": true
     },
     {
+      "projectID": 74120,
+      "fileID": 2711439,
+      "required": true
+    },
+    {
       "projectID": 310288,
       "fileID": 2658813,
       "required": true
@@ -92,7 +107,7 @@
     {
       "projectID": 291916,
       "fileID": 2574802,
-      "required": true
+      "required": false
     },
     {
       "projectID": 69118,
@@ -122,6 +137,11 @@
     {
       "projectID": 227875,
       "fileID": 2771611,
+      "required": true
+    },
+    {
+      "projectID": 293602,
+      "fileID": 2815771,
       "required": true
     },
     {
@@ -170,6 +190,11 @@
       "required": true
     },
     {
+      "projectID": 244049,
+      "fileID": 2712670,
+      "required": true
+    },
+    {
       "projectID": 286382,
       "fileID": 2815686,
       "required": true
@@ -207,7 +232,7 @@
     {
       "projectID": 245174,
       "fileID": 2755787,
-      "required": true
+      "required": false
     },
     {
       "projectID": 69163,
@@ -222,7 +247,12 @@
     {
       "projectID": 250763,
       "fileID": 2705813,
-      "required": true
+      "required": false
+    },
+    {
+      "projectID": 349353,
+      "fileID": 2846277,
+      "required": false
     },
     {
       "projectID": 274159,
@@ -247,7 +277,7 @@
     {
       "projectID": 345460,
       "fileID": 2830628,
-      "required": true
+      "required": false
     },
     {
       "projectID": 229048,
@@ -292,7 +322,7 @@
     {
       "projectID": 310383,
       "fileID": 2660325,
-      "required": true
+      "required": false
     },
     {
       "projectID": 236307,
@@ -367,7 +397,7 @@
     {
       "projectID": 224641,
       "fileID": 2861573,
-      "required": true
+      "required": false
     },
     {
       "projectID": 221857,
@@ -397,7 +427,7 @@
     {
       "projectID": 250277,
       "fileID": 2722271,
-      "required": true
+      "required": false
     },
     {
       "projectID": 270330,
@@ -440,6 +470,11 @@
       "required": true
     },
     {
+      "projectID": 278155,
+      "fileID": 2726334,
+      "required": true
+    },
+    {
       "projectID": 264231,
       "fileID": 2874453,
       "required": true
@@ -462,7 +497,7 @@
     {
       "projectID": 274259,
       "fileID": 2818975,
-      "required": true
+      "required": false
     },
     {
       "projectID": 243076,
@@ -487,6 +522,11 @@
     {
       "projectID": 302128,
       "fileID": 2748681,
+      "required": true
+    },
+    {
+      "projectID": 277064,
+      "fileID": 2912859,
       "required": true
     },
     {
@@ -520,6 +560,11 @@
       "required": true
     },
     {
+      "projectID": 366216,
+      "fileID": 2902595,
+      "required": true
+    },
+    {
       "projectID": 266515,
       "fileID": 2745321,
       "required": true
@@ -527,6 +572,11 @@
     {
       "projectID": 250363,
       "fileID": 2746011,
+      "required": true
+    },
+    {
+      "projectID": 287683,
+      "fileID": 2882794,
       "required": true
     },
     {
@@ -612,7 +662,7 @@
     {
       "projectID": 240950,
       "fileID": 2707390,
-      "required": true
+      "required": false
     },
     {
       "projectID": 292752,
@@ -697,7 +747,7 @@
     {
       "projectID": 245453,
       "fileID": 2691536,
-      "required": true
+      "required": false
     },
     {
       "projectID": 236542,
@@ -732,7 +782,7 @@
     {
       "projectID": 59433,
       "fileID": 2722448,
-      "required": true
+      "required": false
     },
     {
       "projectID": 245480,
@@ -785,9 +835,14 @@
       "required": true
     },
     {
+      "projectID": 289529,
+      "fileID": 2650352,
+      "required": true
+    },
+    {
       "projectID": 228816,
       "fileID": 2699056,
-      "required": true
+      "required": false
     },
     {
       "projectID": 246640,
@@ -817,7 +872,7 @@
     {
       "projectID": 242195,
       "fileID": 2813586,
-      "required": true
+      "required": false
     },
     {
       "projectID": 304024,
@@ -897,7 +952,7 @@
     {
       "projectID": 231095,
       "fileID": 2720655,
-      "required": true
+      "required": false
     },
     {
       "projectID": 306851,
@@ -917,11 +972,6 @@
     {
       "projectID": 251718,
       "fileID": 2684043,
-      "required": true
-    },
-    {
-      "projectID": 243363,
-      "fileID": 2888155,
       "required": true
     },
     {
@@ -952,7 +1002,7 @@
     {
       "projectID": 64578,
       "fileID": 2858816,
-      "required": true
+      "required": false
     },
     {
       "projectID": 250617,
@@ -962,11 +1012,21 @@
     {
       "projectID": 225561,
       "fileID": 2678374,
+      "required": false
+    },
+    {
+      "projectID": 223891,
+      "fileID": 2526674,
       "required": true
     },
     {
       "projectID": 258426,
       "fileID": 2755790,
+      "required": true
+    },
+    {
+      "projectID": 223896,
+      "fileID": 2680892,
       "required": true
     },
     {
@@ -978,6 +1038,16 @@
       "projectID": 241721,
       "fileID": 2872629,
       "required": true
+    },
+    {
+      "projectID": 282940,
+      "fileID": 2915367,
+      "required": true
+    },
+    {
+      "projectID": 246183,
+      "fileID": 2882804,
+      "required": false
     },
     {
       "projectID": 74072,
@@ -997,7 +1067,7 @@
     {
       "projectID": 300777,
       "fileID": 2697221,
-      "required": true
+      "required": false
     }
   ],
   "overrides": "overrides"
